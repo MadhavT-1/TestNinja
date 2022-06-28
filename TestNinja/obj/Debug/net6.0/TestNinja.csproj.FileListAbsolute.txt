@@ -1,0 +1,15 @@
+C:\Users\admin\RiderProjects\TestNinja\TestNinja\bin\Debug\net6.0\TestNinja.exe
+C:\Users\admin\RiderProjects\TestNinja\TestNinja\bin\Debug\net6.0\TestNinja.deps.json
+C:\Users\admin\RiderProjects\TestNinja\TestNinja\bin\Debug\net6.0\TestNinja.runtimeconfig.json
+C:\Users\admin\RiderProjects\TestNinja\TestNinja\bin\Debug\net6.0\TestNinja.dll
+C:\Users\admin\RiderProjects\TestNinja\TestNinja\bin\Debug\net6.0\TestNinja.pdb
+C:\Users\admin\RiderProjects\TestNinja\TestNinja\obj\Debug\net6.0\TestNinja.csproj.AssemblyReference.cache
+C:\Users\admin\RiderProjects\TestNinja\TestNinja\obj\Debug\net6.0\TestNinja.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\RiderProjects\TestNinja\TestNinja\obj\Debug\net6.0\TestNinja.AssemblyInfoInputs.cache
+C:\Users\admin\RiderProjects\TestNinja\TestNinja\obj\Debug\net6.0\TestNinja.AssemblyInfo.cs
+C:\Users\admin\RiderProjects\TestNinja\TestNinja\obj\Debug\net6.0\TestNinja.csproj.CoreCompileInputs.cache
+C:\Users\admin\RiderProjects\TestNinja\TestNinja\obj\Debug\net6.0\TestNinja.dll
+C:\Users\admin\RiderProjects\TestNinja\TestNinja\obj\Debug\net6.0\refint\TestNinja.dll
+C:\Users\admin\RiderProjects\TestNinja\TestNinja\obj\Debug\net6.0\TestNinja.pdb
+C:\Users\admin\RiderProjects\TestNinja\TestNinja\obj\Debug\net6.0\TestNinja.genruntimeconfig.cache
+C:\Users\admin\RiderProjects\TestNinja\TestNinja\obj\Debug\net6.0\ref\TestNinja.dll
