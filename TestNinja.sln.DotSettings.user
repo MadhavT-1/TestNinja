@@ -7,5 +7,11 @@
 	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=258aa076_002Db9a3_002D4bb1_002D8af3_002D0ee9fa775ff9/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="Add_AddTwoNumbers_ReturnsAddtionOfNumbers #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
   &lt;TestAncestor&gt;&#xD;
     &lt;TestId&gt;NUnit3x::12085659-811B-4691-B68E-3E57C1E570FA::net6.0::TestNinja.Tests.ReservationTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::12085659-811B-4691-B68E-3E57C1E570FA::net6.0::TestNinja.Tests.HtmlFormatterTests.FormatAsBold_WhenCalled_ShouldEncloseTheStringWithStrongElement&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::12085659-811B-4691-B68E-3E57C1E570FA::net6.0::TestNinja.Tests.MathTests.GetOddNumbers_LimitGreaterThanZero_ReturnOddNumbersUptoLimit&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::12085659-811B-4691-B68E-3E57C1E570FA::net6.0::TestNinja.Tests.CustomerControllerTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::12085659-811B-4691-B68E-3E57C1E570FA::net6.0::TestNinja.Tests.ErrorLoggerTests.Log_WhenCalled_ShouldSetLastErrorProperty&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::12085659-811B-4691-B68E-3E57C1E570FA::net6.0::TestNinja.Tests.ErrorLoggerTests.Log_InvalidError_ThrowArgumentNullException&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::12085659-811B-4691-B68E-3E57C1E570FA::net6.0::TestNinja.Tests.ErrorLoggerTests.Log_ValidError_RaiseErrorLoggedEvent&lt;/TestId&gt;&#xD;
   &lt;/TestAncestor&gt;&#xD;
 &lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

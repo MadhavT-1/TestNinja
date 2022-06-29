@@ -11,4 +11,12 @@ public class Math
     {
         return (a > b) ? a : b;
     }
+
+    public IEnumerable<int> GetOddNumbers(int limit)
+    {
+        for (var i = 0; i <= limit; i++)
+            if (i % 2 != 0)
+                yield return i;
+            
+    }
 }
