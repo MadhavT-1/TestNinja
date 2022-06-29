@@ -13,5 +13,6 @@
     &lt;TestId&gt;NUnit3x::12085659-811B-4691-B68E-3E57C1E570FA::net6.0::TestNinja.Tests.ErrorLoggerTests.Log_WhenCalled_ShouldSetLastErrorProperty&lt;/TestId&gt;&#xD;
     &lt;TestId&gt;NUnit3x::12085659-811B-4691-B68E-3E57C1E570FA::net6.0::TestNinja.Tests.ErrorLoggerTests.Log_InvalidError_ThrowArgumentNullException&lt;/TestId&gt;&#xD;
     &lt;TestId&gt;NUnit3x::12085659-811B-4691-B68E-3E57C1E570FA::net6.0::TestNinja.Tests.ErrorLoggerTests.Log_ValidError_RaiseErrorLoggedEvent&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::12085659-811B-4691-B68E-3E57C1E570FA::net6.0::TestNinja.Tests.FizzBuzzTests&lt;/TestId&gt;&#xD;
   &lt;/TestAncestor&gt;&#xD;
 &lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
